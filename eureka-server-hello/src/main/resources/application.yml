@@ -4,7 +4,7 @@ spring:
 
 server:
   port: 8081
-
+message: Not what I want
 eureka:
   client:
     registerWithEureka: true
